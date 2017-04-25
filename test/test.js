@@ -1,6 +1,6 @@
 'use strict'
 var Shape = require('../lib/triangle.js');
-// var Triangle = require('@ednagc/ull-shape-triangle-ednagc');
+var Triangle = require('@ednagc/ull-shape-triangle-ednagc');
 
 describe("getArea", function() {
   it("Calculo del area de un triangulo correctamente. Objeto tipo Shape", function() {
