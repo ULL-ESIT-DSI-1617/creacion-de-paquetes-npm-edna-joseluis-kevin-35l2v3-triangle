@@ -1,0 +1,26 @@
+{
+  "name": "@ull-edna-joseluis-kevin-35l2/ull-shape-triangle",
+  "version": "1.0.0",
+  "description": "ull-shape-triangle",
+  "main": "index.js",
+  "scripts": {
+    "doc": "documentation build index.js -f html -o docs",
+    "test": "./node_modules/mocha/bin/mocha --require should"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle.git"
+  },
+  "author": "Edna Galiano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.6.3",
+    "mocha": "^3.3.0",
+    "should": "^11.2.1"
+  }
+}
