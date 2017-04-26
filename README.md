@@ -10,7 +10,7 @@ Paquete que representa formas triangulares.
 
 * [Documentación](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle/)
 
-## Travis
+## Badge Travis
 
 [![BuildStatus](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle)
 
