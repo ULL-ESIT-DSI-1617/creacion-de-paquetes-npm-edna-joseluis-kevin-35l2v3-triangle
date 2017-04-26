@@ -11,13 +11,14 @@
     "type": "git",
     "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle.git"
   },
-  "author": "Edna Galiano",
+  "author": "Edna Galiano <ednagc.11@gmail.com> (https://ednagc.github.io/edna-galiano/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle/issues"
   },
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle#readme",
   "dependencies": {
+    "@ull-edna-joseluis-kevin-35l2/ull-shape": "^1.0.0",
     "gulp": "^3.9.1",
     "gulp-shell": "^0.6.3",
     "mocha": "^3.3.0",
