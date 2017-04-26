@@ -10,6 +10,10 @@ Paquete que representa formas triangulares.
 
 * [Documentación](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle/)
 
+## Travis
+
+
+
 ## Asignatura DSI ULL
 
 [Desarrollo de Sistemas Informáticos](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
