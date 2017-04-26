@@ -5,10 +5,11 @@
 ## Descripción
 
 Paquete que representa formas triangulares.
+*[@ull-edna-joseluis-kevin-35l2/ull-shape-triangle](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-triangle)
 
 ## Documentación
 
-* [Documentación](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle/)
+*[Documentación](https://ull-esit-dsi-1617.github.io/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle/)
 
 ## Badge Travis
 
