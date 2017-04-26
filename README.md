@@ -25,6 +25,6 @@ Paquete que representa formas triangulares.
 
 ## Autor
 
-Edna Liliana Galiano Camacho  
+Edna Galiano  
 * [Github](https://github.com/ednagc)
 * [Pagina personal](https://ednagc.github.io/edna-galiano/)
