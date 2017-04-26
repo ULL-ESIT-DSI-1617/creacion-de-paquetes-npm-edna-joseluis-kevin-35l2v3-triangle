@@ -12,7 +12,7 @@ Paquete que representa formas triangulares.
 
 ## Travis
 
-
+[![BuildStatus](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-edna-joseluis-kevin-35l2v3-triangle)
 
 ## Asignatura DSI ULL
 
