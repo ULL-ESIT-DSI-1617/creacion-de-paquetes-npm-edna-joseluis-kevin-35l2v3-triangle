@@ -4,8 +4,8 @@
 
 ## Descripción
 
-Paquete que representa formas triangulares.
-*[@ull-edna-joseluis-kevin-35l2/ull-shape-triangle](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-triangle)
+Paquete que representa formas triangulares: 
+[@ull-edna-joseluis-kevin-35l2/ull-shape-triangle](https://www.npmjs.com/package/@ull-edna-joseluis-kevin-35l2/ull-shape-triangle)
 
 ## Documentación
 
